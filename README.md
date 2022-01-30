@@ -14,5 +14,6 @@ Here are some ideas to get you started:
 
 # Lucas Meneses
 
-<br/> 🔭 I’m currently working as aerospace engineer, specifically, working on an airship project :D
-<br/> 🌱 I’m currently learning javascrypt, react, django-rest, machine learning 
+<br/> 🔭 I’m currently working as aerospace engineer on an airship project :D
+<br/> I'm always looking to improve my programming skills aiming to change my career soon. I realy like this programming stuff.
+<br/> A big fan of the financial world.
