@@ -14,6 +14,4 @@ You can check out my current work at:
 
 - https://www.crivo.ai
 
-I hope to make a career change soon and start coding for a living!
-
 
