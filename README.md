@@ -1,17 +1,30 @@
-### Hi 👋
+# Hi, I’m Lucas 👋
 
-<br/> I'm Lucas, and I like to code in my free time.
+**Passionate about learning and building** software.
 
-Currently, I am working on projects to sharpen my skills in software development, from the early stages to deploying into production, including writing API documentation and following best practices.
+## 🔭 Currently I’m…
 
-Python, Rust, Docker, Nginx, and Kong are among the backend technologies I have gained good experience with.
+- Exploring design patterns and best practices in distributed architectures  
+- Experimenting with queues, microservices, and infrastructure automation  
+- Managing VPS, monitoring container metrics, and keeping my homelab running
 
-On the frontend side, I chose to go with TypeScript since I feel more comfortable declaring types.
-
-You can check out my current work at:
-
-- https://www.iniciai.com
-
-- https://www.crivo.ai
+Feeling most at home in backend & infrastructure!
 
 
+## 🛠️ Technologies & Tools
+
+| Backend                      | Frontend            | DevOps & Infra              |
+| ---------------------------- | ------------------- | --------------------------- |
+| Python · Rust · Go           | TypeScript · React  | Docker · Nginx · Kong  |
+| PostgreSQL · MySQL  · Qdrant  · Redis  | HTML · CSS · Tailwind | Git · Terraform · VPS |
+
+
+## 🚀 Projects That Speak for Me
+
+- **Glifo.ai** – A productivity platform with AI agents and knowledge clustering, it is like an obsidian with AI  
+- **Iniciai.ai** – A project mantained by me and my wife 
+
+## 📫 How to Reach Me
+
+- my blog: https://www.omeneses.com  
+- LinkedIn: [https://www.linkedin.com/in/lucas-meneses-596605141/](https://www.linkedin.com)
